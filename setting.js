@@ -10,13 +10,13 @@ global.Api = {
 global.ApiKey = 'coderevolution' 
 
 global.smm = {
-  nomor : '6285755825621',
+  nomor : '919037858501',
   atasnama : 'XCoco'
 }
 
 // Other
-global.owner = ['94764497078']
-global.premium = ['94764497078']
+global.owner = ['919037858501']
+global.premium = ['919037858501']
 global.sponsor = 'Tidak Ada Sponsor :)'
 global.packname = 'Sandaru'
 global.footer = 'SANDARU Multi Device'
